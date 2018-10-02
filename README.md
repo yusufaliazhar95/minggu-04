@@ -1,4 +1,4 @@
-# minggu-04\
+# minggu-04
 
 Jika Anda keluar dari interpreter Python dan memasukkannya lagi, definisi yang Anda buat (fungsi dan variabel) hilang. Oleh karena itu, jika Anda ingin menulis program yang agak lebih panjang, Anda lebih baik menggunakan editor teks untuk menyiapkan masukan bagi juru bahasa dan menjalankannya dengan file itu sebagai masukan. Ini dikenal sebagai membuat skrip. Seiring program Anda menjadi lebih panjang, Anda mungkin ingin membaginya menjadi beberapa file untuk memudahkan perawatan. Anda mungkin juga ingin menggunakan fungsi berguna yang telah Anda tulis di beberapa program tanpa menyalin definisinya ke dalam setiap program.
 
